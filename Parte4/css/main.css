@@ -1,0 +1,18 @@
+div {
+	display: block;
+	width: 200px;
+	height: 220px;
+	border:solid #EB8459;
+	padding-bottom: 20px;
+	padding-left:8px;
+	padding-right:8px;
+|	}
+	
+p {
+	text-align: left;
+	}
+
+h3 {
+	text-align: left;
+	}
+

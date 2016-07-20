@@ -1,0 +1,16 @@
+div {
+	display: block;
+	width: 200px;
+	height: 220px;
+	border:solid #EB8459;
+	padding: 20px 10px;
+	margin: 10px;
+|	}
+	
+p {
+	text-align: left;
+	}
+
+h3 {
+	text-align: left;
+	}
